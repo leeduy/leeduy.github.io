@@ -1,6 +1,7 @@
 @angular/animations
 MIT
 
+<<<<<<< HEAD
 @angular/cdk
 MIT
 The MIT License
@@ -26,6 +27,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+=======
+>>>>>>> 605d26700d68b577e3bf30cae3a3392db0d2d763
 @angular/common
 MIT
 
@@ -69,6 +72,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+<<<<<<< HEAD
 primeicons
 MIT
 MIT License
@@ -97,6 +101,8 @@ SOFTWARE.
 primeng
 MIT
 
+=======
+>>>>>>> 605d26700d68b577e3bf30cae3a3392db0d2d763
 rxjs
 Apache-2.0
                                Apache License
